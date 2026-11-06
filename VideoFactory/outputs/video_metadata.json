@@ -1,0 +1,115 @@
+{
+  "project": "Zero-API AI Video Factory",
+  "video_title": "Understanding This hilarious robot collapse reminds me that",
+  "selected_topic": "This hilarious robot collapse reminds me that robot development is nowhere near...",
+  "target_audience": "Tech enthusiasts, developers, students, and curious minds",
+  "total_duration_seconds": 26.332,
+  "aspect_ratio": "9:16",
+  "resolution": "720x1280",
+  "frame_rate": 30,
+  "visual_engine": "hybrid",
+  "llm_engine": "Qwen/Qwen2.5-7B-Instruct (4-bit NF4)",
+  "tts_engine": "Piper",
+  "audio_sample_rate_hz": 22050,
+  "hashtags": [
+    "#Technology",
+    "#ArtificialIntelligence",
+    "#Innovation",
+    "#Engineering",
+    "#FutureTech",
+    "#TechExplained"
+  ],
+  "scene_count": 10,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 3.339,
+      "duration_seconds": 3.339,
+      "visual_prompt": "Cinematic macro visualization of an advanced technological concept, dramatic lighting, realistic materials, vertical composition",
+      "voiceover_text": "Here is a closer look at This hilarious robot collapse reminds me that robot development i and the information currently available.",
+      "subtitle_text": "Understanding The Topic"
+    },
+    {
+      "scene_number": 2,
+      "start_time_seconds": 3.339,
+      "end_time_seconds": 3.76,
+      "duration_seconds": 0.42,
+      "visual_prompt": "Minimal futuristic laboratory environment with abstract technical equipment, cinematic depth, vertical composition",
+      "voiceover_text": "First, let's understand what This hilarious robot collapse reminds me that robot development i actually means.",
+      "subtitle_text": "Start With The Basics"
+    },
+    {
+      "scene_number": 3,
+      "start_time_seconds": 3.76,
+      "end_time_seconds": 7.098,
+      "duration_seconds": 3.338,
+      "visual_prompt": "Close-up conceptual visualization of research documentation and scientific equipment, no readable text, cinematic lighting",
+      "voiceover_text": "The available information comes from TechRadar · via Yahoo Tech. It has not been independently verified.",
+      "subtitle_text": "What The Source Says"
+    },
+    {
+      "scene_number": 4,
+      "start_time_seconds": 7.098,
+      "end_time_seconds": 9.37,
+      "duration_seconds": 2.271,
+      "visual_prompt": "Abstract scientific visualization representing information flow and interconnected technical concepts, detailed cinematic composition",
+      "voiceover_text": "The available material describes the following: Two recent robot demonstrations — one a huge fail and the other an inspiring breakthrough — remind u...",
+      "subtitle_text": "Available Research Details"
+    },
+    {
+      "scene_number": 5,
+      "start_time_seconds": 9.37,
+      "end_time_seconds": 12.786,
+      "duration_seconds": 3.416,
+      "visual_prompt": "Conceptual split composition showing established engineering principles and uncertain possibilities, realistic lighting",
+      "voiceover_text": "It is important to separate documented information from assumptions.",
+      "subtitle_text": "Facts Versus Assumptions"
+    },
+    {
+      "scene_number": 6,
+      "start_time_seconds": 12.786,
+      "end_time_seconds": 16.324,
+      "duration_seconds": 3.538,
+      "visual_prompt": "Dark cinematic research environment with abstract technical diagrams and subtle glowing elements, no readable text",
+      "voiceover_text": "The available source does not establish every possible technical detail.",
+      "subtitle_text": "Understanding The Limitations"
+    },
+    {
+      "scene_number": 7,
+      "start_time_seconds": 16.324,
+      "end_time_seconds": 20.247,
+      "duration_seconds": 3.923,
+      "visual_prompt": "Detailed macro visualization of interconnected technological components, realistic textures, shallow depth of field",
+      "voiceover_text": "Understanding the underlying concepts helps put this subject into context.",
+      "subtitle_text": "The Technical Context"
+    },
+    {
+      "scene_number": 8,
+      "start_time_seconds": 20.247,
+      "end_time_seconds": 23.717,
+      "duration_seconds": 3.47,
+      "visual_prompt": "Scientific research environment with engineers examining abstract visual data, cinematic realism",
+      "voiceover_text": "Further evidence is needed before drawing broader technical conclusions.",
+      "subtitle_text": "More Evidence Is Needed"
+    },
+    {
+      "scene_number": 9,
+      "start_time_seconds": 23.717,
+      "end_time_seconds": 25.213,
+      "duration_seconds": 1.496,
+      "visual_prompt": "Conceptual futuristic technology visualization representing potential applications, realistic cinematic atmosphere",
+      "voiceover_text": "The central question remains: what can This hilarious robot collapse reminds me that robot development i eventually enable?",
+      "subtitle_text": "What Comes Next?"
+    },
+    {
+      "scene_number": 10,
+      "start_time_seconds": 25.213,
+      "end_time_seconds": 26.332,
+      "duration_seconds": 1.119,
+      "visual_prompt": "Minimal cinematic closing shot of a futuristic horizon with subtle technological elements, vertical composition",
+      "voiceover_text": "What is your perspective? Share your thoughts and follow for more.",
+      "subtitle_text": "Share Your Perspective"
+    }
+  ]
+}

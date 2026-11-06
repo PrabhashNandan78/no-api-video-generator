@@ -1,0 +1,23 @@
+# Zero-API Short-Form Video Factory Dependencies
+# Compatible with Google Colab Free Tier (Python 3.13 / CUDA 12.x / T4 GPU)
+
+transformers>=4.45.0
+accelerate>=0.34.0
+bitsandbytes>=0.43.0
+diffusers>=0.31.0
+safetensors>=0.4.3
+sentencepiece>=0.2.0
+ddgs>=9.0.0
+duckduckgo-search>=6.2.0
+feedparser>=6.0.11
+piper-tts
+soundfile>=0.12.1
+moviepy>=2.0.0
+pydantic>=2.7.0
+imageio-ffmpeg>=0.5.1
+Pillow>=10.2.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+requests>=2.31.0
+tqdm>=4.66.0
+psutil>=5.9.0

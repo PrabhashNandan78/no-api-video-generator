@@ -1,0 +1,2 @@
+file 'C:/Users/prabh/.gemini/antigravity/scratch/video_factory/sample_output/test_clip_01.mp4'
+file 'C:/Users/prabh/.gemini/antigravity/scratch/video_factory/sample_output/test_clip_01.mp4'
