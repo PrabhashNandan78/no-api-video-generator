@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local config / secrets
+.env
+.env.*
+
+# Working directories for generated media
+temp/
+sample_output/
+
+# Pipeline outputs (VideoFactory runtime tree)
+VideoFactory/outputs/
+
+# Generated media
+*.mp4
+*.wav
+*.mp3
+*.srt
+
+# Model weights / checkpoints
+models/
+checkpoints/
+*.onnx

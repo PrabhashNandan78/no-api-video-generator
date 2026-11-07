@@ -146,3 +146,9 @@ VideoFactory/
 | **Cell 10**| Audio Mixing | Procedural ambient music, audio ducking (-18 dB under narration) |
 | **Cell 11**| SEO Captions & Meta | `caption.txt`, `video_metadata.json` documenting Piper TTS & Qwen 7B |
 | **Cell 12**| Master Orchestration | `run_smoke_test()`, `run_video_factory()`, `ffprobe` validation, HTML5 player |
+
+---
+
+## 🎞️ Demo & Outputs
+
+One small sample render is kept in this repository at `sample_output/final_video.mp4` so visitors can see what the pipeline produces. All other generated media — the `temp/` working files, intermediate scene clips/audio, and `VideoFactory/outputs/` — is **not** tracked in git (see `.gitignore`); regenerate it by running the pipeline. Model weights and checkpoints are likewise untracked and are downloaded at runtime.
